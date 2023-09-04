@@ -1,1 +1,2 @@
-# Heroes1
+# Heroes
+Integrantes: Henrique Tres Terra, Marcello Stefenon Filho
